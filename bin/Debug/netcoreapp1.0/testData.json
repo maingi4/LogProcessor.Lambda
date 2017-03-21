@@ -1,0 +1,11 @@
+{
+	"invocationId" : "cd6eb022-9528-42c6-82fb-e5e969ea7962",
+	"deliveryStreamArn" : "arn:aws:firehose:us-west-2:522390200088:deliverystream/logstream",
+	"region" : "us-west-2",
+	"records" : [{
+			"recordId" : "49570122502395591010539641575388588252247858295703863298",
+			"approximateArrivalTimestamp" : 1486135421633,
+			"data" : "eyJSZXF1ZXN0SWQiOiI3OWVhMmRkYi1iNTJmLTQyZmYtYjU1Yi05YTFhM2ZmMDliMGEiLCJTZXNzaW9uSWQiOiI0YzExNDliYy1iOTQ3LTQyZDMtOGE5ZC00ZDA1MmIyMDg2MmMiLCJUaW1lc3RhbXAiOiIyMDE3LTAxLTE3VDAyOjA5OjM2LjQ5NTIzNjNaIiwiVXNlcklkIjoiZDQ0MDZiNjAtODQzOS00MjRjLTgwYzUtYmEwOTY3MjhiM2NkIiwiU2VydmVySXAiOiIxOTIuMTY4LjEuMSIsIk1lc3NhZ2UiOiJUaGUgcmVxdWVzdCBoYWQgYmFkIHdvcmRzIGluIGl0IiwiTGV2ZWwiOiJNb2R1bGUiLCJDYXRlZ29yeSI6IkluZm9ybWF0aW9uIiwiUmVxdWVzdCI6IntcImlBbVwiOiBcImEgcmVxdWVzdFwifSIsIlJlc3BvbnNlIjoie1wiYW5kSGVyZUlzXCI6IFwiYSByZXNwb25zZVwifSJ9"
+		}
+	]
+}
